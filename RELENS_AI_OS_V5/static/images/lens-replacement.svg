@@ -1,0 +1,10 @@
+<svg width="800" height="620" viewBox="0 0 800 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Premium eyeglasses with replacement lenses</title><desc id="desc">A refined pair of glasses against a soft purple background.</desc>
+  <defs><linearGradient id="bg" x1="80" y1="48" x2="720" y2="590" gradientUnits="userSpaceOnUse"><stop stop-color="#F3EFFF"/><stop offset="1" stop-color="#DDE8FF"/></linearGradient><linearGradient id="lens" x1="182" y1="223" x2="598" y2="427" gradientUnits="userSpaceOnUse"><stop stop-color="#EAF1FF" stop-opacity=".92"/><stop offset="1" stop-color="#BFD4FF" stop-opacity=".65"/></linearGradient></defs>
+  <rect width="800" height="620" rx="48" fill="url(#bg)"/><circle cx="650" cy="116" r="78" fill="#C9B7FF" opacity=".35"/><circle cx="119" cy="510" r="110" fill="#B8D3FF" opacity=".42"/>
+  <path d="M157 237c-37 2-57 27-52 73l13 104c5 39 28 59 66 59h104c37 0 62-20 69-59l15-89c3-20-12-39-32-39l-184-49Z" fill="url(#lens)" stroke="#1B2440" stroke-width="17" stroke-linejoin="round"/>
+  <path d="M643 237c37 2 57 27 52 73l-13 104c-5 39-28 59-66 59H512c-37 0-62-20-69-59l-15-89c-3-20 12-39 32-39l184-49Z" fill="url(#lens)" stroke="#1B2440" stroke-width="17" stroke-linejoin="round"/>
+  <path d="M350 292c30-20 70-20 100 0" stroke="#1B2440" stroke-width="17" stroke-linecap="round"/><path d="M155 261 69 215M645 261l86-46" stroke="#1B2440" stroke-width="17" stroke-linecap="round"/>
+  <path d="m200 278 95 25" stroke="white" stroke-opacity=".75" stroke-width="16" stroke-linecap="round"/><path d="m505 278 95 25" stroke="white" stroke-opacity=".75" stroke-width="16" stroke-linecap="round"/>
+  <rect x="259" y="497" width="282" height="53" rx="26.5" fill="#fff" fill-opacity=".86"/><circle cx="290" cy="523.5" r="8" fill="#6C42D9"/><text x="311" y="530" fill="#26304B" font-family="Arial, sans-serif" font-size="22" font-weight="700">PRECISION LENS CARE</text>
+</svg>
